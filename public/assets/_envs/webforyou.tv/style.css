@@ -1,0 +1,14 @@
+.navbar-header .breadcrumb .logo {
+    width: 113px;
+}
+
+.navbar-header .breadcrumb .logo a {
+    background-image: url(/assets/images/logo.png);
+    background-repeat: no-repeat;
+    background-size: 108px 32px;
+    display: block;
+    height: 32px;
+    position: relative;
+    top: 9px;
+    margin-top: -15px;
+}
